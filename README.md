@@ -1,12 +1,15 @@
 # SmartProfe
 Grupo 3
 
-
 Autores:
 Ambicho Perez, Dayana - U20201b611
+
 Olivares Lao, Gustavo Alonso - U202216448
+
 Peña Riofrio, Maria Fernanda - U202113279
+
 Quenta Quiscola, Jhon Jairo - U202216398
+
 Zavala Cordova, Jose Miguel - U202219184
 
 
