@@ -2,15 +2,7 @@
 Grupo 3
 
 Autores:
-Ambicho Perez, Dayana - U20201b611
-
-Olivares Lao, Gustavo Alonso - U202216448
-
-Peña Riofrio, Maria Fernanda - U202113279
-
-Quenta Quiscola, Jhon Jairo - U202216398
-
-Zavala Cordova, Jose Miguel - U202219184
+Ambicho Perez, Dayana (20201b611); Olivares Lao, Gustavo Alonso (U202216448); Peña Riofrio, Maria Fernanda (U202113279) ; Quenta Quiscola, Jhon Jairo (U202216398); Zavala Cordova, Jose Miguel (U202219184)
 
 
 En la era digital, donde la información fluye a través de dispositivos inteligentes y las conexiones en línea son la norma, el acceso a la educación de calidad nunca ha sido tan importante. Sin embargo, encontrar el profesor adecuado para tus necesidades específicas puede ser un desafío. A menudo, los estudiantes se enfrentan a una abrumadora cantidad de opciones, y tomar la decisión correcta puede marcar la diferencia en su éxito académico. En este contexto, surge la necesidad de una aplicación innovadora que pueda recomendar profesores de manera personalizada. Esta aplicación, que llamaremos SmartProfe, tiene como objetivo facilitar la búsqueda de profesores que se adapten perfectamente a las necesidades de cada estudiante.
