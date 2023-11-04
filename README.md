@@ -15,7 +15,7 @@ Empoderar a cada estudiante para que alcance su máximo potencial académico, pr
 Visión:
 Convertirnos en la plataforma líder mundial para la conexión de estudiantes con profesores, transformando la educación globalmente al hacer que el aprendizaje personalizado sea accesible para todos, sin importar su ubicación o recursos.
 
-Segmentos objetivos
+Segmentos objetivos:
 Estudiantes Universitarios: 
 Los estudiantes universitarios constituyen un segmento objetivo esencial debido a su necesidad inherente de acceso a educadores de calidad.
 Aspectos demográficos:
@@ -48,7 +48,4 @@ Buscan la excelencia en su trabajo y están dispuestos a invertir en recursos y 
 Solution Profile:
 
 La problemática de una aplicación como SmartProfe se relaciona con la creciente necesidad de conectar a estudiantes con profesores de manera efectiva y eficiente en un entorno cada vez más digitalizado. Los antecedentes incluyen el aumento de la demanda de tutores y la dificultad de encontrar profesores adecuados. Los problemas clave son la falta de una plataforma centralizada para buscar profesores, la falta de transparencia en la elección de un tutor, la inseguridad en la calidad de la enseñanza y la dificultad en la gestión de horarios y pagos. Una aplicación como SmartProfe bien diseñada aborda estos desafíos y facilita la conexión entre estudiantes y profesores, mejorando así la calidad de la educación personalizada.
-AUTORES:
-Dayana Ambicho Pérez 
-Maria Fernanda, Peña Riofrio
-Zavala Cordova, Jose Miguel
+
